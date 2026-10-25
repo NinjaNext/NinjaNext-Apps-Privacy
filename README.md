@@ -14,6 +14,7 @@ Privacy policies for apps published by NinjaNext (http://ninjanexttech.com/ Ã¢â‚
 | MuslimApp | `com.sjtechnologies.muslimapp` | https://ninjanext.github.io/NinjaNext-Apps-Privacy/muslimapp/ |
 | Tiny Colony: Island Survival | `com.ninjanext.tinycolony` | https://ninjanext.github.io/NinjaNext-Apps-Privacy/tinycolony/ |
 | RoomFit: Pack Every Inch | `com.ninjanext.roomfit` | https://ninjanext.github.io/NinjaNext-Apps-Privacy/roomfit/ |
+| BlockQuest: Block Puzzle Game | `com.ninjanext.blockquest` | https://ninjanext.github.io/NinjaNext-Apps-Privacy/blockquest/ |
 
 Every new NinjaNext app gets its own folder here (`<app>/index.html`), published at `https://ninjanext.github.io/NinjaNext-Apps-Privacy/<app>/`.
 
