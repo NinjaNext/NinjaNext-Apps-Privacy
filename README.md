@@ -12,5 +12,6 @@ Privacy policies for apps published by NinjaNext (http://ninjanexttech.com/ — 
 | One Move Left | `com.ninjanext.onemoveleft` | https://ninjanext.github.io/NinjaNext-Apps-Privacy/onemoveleft/ |
 | Don't Break the Pattern | `com.ninjanext.dontbreakthepattern` | https://ninjanext.github.io/NinjaNext-Apps-Privacy/dontbreakthepattern/ |
 | MuslimApp | `com.sjtechnologies.muslimapp` | https://ninjanext.github.io/NinjaNext-Apps-Privacy/muslimapp/ |
+| Tiny Colony: Island Survival | `com.ninjanext.tinycolony` | https://ninjanext.github.io/NinjaNext-Apps-Privacy/tinycolony/ |
 
 Every new NinjaNext app gets its own folder here (`<app>/index.html`), published at `https://ninjanext.github.io/NinjaNext-Apps-Privacy/<app>/`.
